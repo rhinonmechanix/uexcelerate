@@ -1,0 +1,61 @@
+.bg{
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/002/106/276/small/geometric-black-and-gold-background-free-vector.jpg');
+    image-resolution: 100%;
+    margin-right: auto;
+}
+
+.mrg{
+    padding-left: 8%;
+    padding-top: 7%;
+}
+
+.text-color-green{
+    color: RGB(215,223,78);
+}
+
+.text-padding{
+    margin-top: -6%;
+}
+
+.text-color-blue{
+    color: #244B90;
+}
+
+.text-quote{
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+
+.cascading-right {
+    margin-right: -50px;
+  }
+
+.image{
+    display: block;
+    width: 50vw;
+    height: 90vh;
+    background-size: fill;
+    overflow: 'hidden',
+}
+
+.column1{
+    margin-left: 19%;
+    padding-top: 10%;
+}
+
+.btn-primary{
+    background-color: RGB(215,223,78);
+    border: 0ch;
+    color: #244B90;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.opacity{
+    opacity: 0.7;
+}
+
+.button{
+    font-size: 20px
+}

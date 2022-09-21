@@ -1,0 +1,9 @@
+.image{
+    display: block;
+    background-size: fill;
+    overflow: 'hidden',
+}
+
+.menu{
+    text-align: right;
+}

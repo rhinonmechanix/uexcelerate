@@ -1,0 +1,42 @@
+.Experience{
+    font-size: 80px;
+    padding-left: 1%;
+    color: RGB(215,223,78);
+}
+
+.text{
+    padding-left: 23%;
+    margin-top: -5%;
+    color: #244B90;
+}
+
+.copyright{
+    font-size: 15px;
+    color: #244B90;
+}
+
+hr{
+    border-top: 3px solid black;
+    border-radius: 7px;
+    width: 90%;
+}
+
+.col1{
+    padding-top: 3%;
+    padding-left: 3%;
+}
+
+.col2{
+    padding-top: 3%;
+    margin-left: -3%;
+}
+
+.fo{
+    font-size: 20px;
+    color: #244B90;
+}
+
+.bo{
+    font-size: 15px;
+    color: #244B90;
+}
